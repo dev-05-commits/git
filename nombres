@@ -4,6 +4,7 @@ using namespace std;
 int main(){
 
 string nom;
+// Devlan Jiménez
 for(int i=0; i<5; i++){
 cout<<" Ingrese su nombre "<<endl;
 cin>>nom;
