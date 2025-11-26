@@ -19,6 +19,8 @@ cout<<"Usted se llama "<<nombre<<endl;
     cout << "Ingrese su edad: ";
     cin >> edad;
     cout << "\nHola " << nombre << ", tienes " << edad << " años.\n";
+//yasdany cambios
+cout<<"como estan"<<nombre<<edad<<endl;
 }
 
 return 0;
